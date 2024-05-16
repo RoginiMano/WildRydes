@@ -1,2 +1,6 @@
 # WildRydes
-Serverless Web Application -AWS
+Project : Serverless Web Application -AWS
+
+Introduction: Wildrydes 
+
+
