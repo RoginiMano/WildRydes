@@ -32,6 +32,9 @@ Step2: Host website and make updates to it.
 * The process took nearly 2-3 minutes for Amplify Console to create the necessary resources and to deploy the code.
 * Once completed,select the link for master you'll see the build and deployment details related to the branch.
 
+  ![Screenshot 2024-05-16 142434](https://github.com/RoginiMano/WildRydes/assets/164807520/96bd27dc-4de2-4964-8122-ec26ba843e8d)
+
+
   ![Screenshot 2024-05-15 115430](https://github.com/RoginiMano/WildRydes/assets/164807520/f1a48995-3ec0-4e9f-b34b-b7a0081ea8ea)
 
 * Then just to make sure everything works I tried doing some changes in the code and it worked successfully.
